@@ -1,0 +1,16 @@
+Let a and b are the two integers. Which option can be used to check out of two numbers one is positive and the other is negative
+
+Options
+This problem has only one correct answer
+
+a) a<0&&b>0
+b) a>0&&b<0
+c) a<0||b<0
+d) a*b<0
+
+Solution
+d) a*b<0
+
+Solution Description
+Given two integers a and b, the product of two integers is negative means either of a or b is negative.
+i.e, If we multiply a*b and the result is less than 0 , it means either a or b is negative. 
