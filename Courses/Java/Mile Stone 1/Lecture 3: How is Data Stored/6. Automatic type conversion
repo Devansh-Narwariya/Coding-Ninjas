@@ -1,0 +1,13 @@
+Automatic type conversion in Java takes place when :
+
+Options
+This problem has only one correct answer
+
+a) Two type are compatible and size of destination type is shorter than source type.
+b) Two type are compatible and size of destination type is larger than source type.
+c) Both 1 and 2
+d) None of the above
+
+Solution
+b) Two type are compatible and size of destination type is larger than source type.
+
