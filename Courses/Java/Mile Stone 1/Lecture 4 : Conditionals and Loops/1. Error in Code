@@ -1,0 +1,19 @@
+What is the error in this code?
+
+byte b = 50;
+b = b * 50;
+
+Options
+This problem has only one correct answer
+a) b can not contain value 2500, limited by its range
+b) * operator has converted b * 50 into int, which can not be converted to byte without casting
+c) b can not contain value 50
+d) No error in this code
+
+Solution
+b) * operator has converted b * 50 into int, which can not be converted to byte without casting
+
+Solution Description
+####In 2nd statement, b is multiplied with 50 where b is byte variable and 50 is an integer. 
+So after the multiplication, result comes as an integer value which is 2500. 
+Now we are trying to assign this integer to a byte variable, which will cause the error.
