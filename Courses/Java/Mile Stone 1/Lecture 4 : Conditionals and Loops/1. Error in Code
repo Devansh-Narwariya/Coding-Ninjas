@@ -14,6 +14,6 @@ Solution
 b) * operator has converted b * 50 into int, which can not be converted to byte without casting
 
 Solution Description
-####In 2nd statement, b is multiplied with 50 where b is byte variable and 50 is an integer. 
+In 2nd statement, b is multiplied with 50 where b is byte variable and 50 is an integer. 
 So after the multiplication, result comes as an integer value which is 2500. 
 Now we are trying to assign this integer to a byte variable, which will cause the error.
