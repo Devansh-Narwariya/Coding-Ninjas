@@ -1,0 +1,25 @@
+Find the output of the following code:
+
+int a=50;
+if(a>10)
+{
+    System.out.print("Coding");
+}
+else(a>20)
+{
+    System.out.print("Ninjas");
+}
+
+Options
+This problem has only one correct answer
+a) Coding
+b) Ninjas
+c) CodingNinjas
+d) Compile time error
+
+Solution
+d) Compile time error
+
+Solution Description
+else (a>20) is wrong syntax.
+We cannot use condition after else.
