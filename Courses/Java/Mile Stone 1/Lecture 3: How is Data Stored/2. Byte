@@ -1,0 +1,14 @@
+Range of byte data type is ?
+
+Options
+This problem has only one correct answer
+a) -128 to 255
+b) -128 to 256
+c) -128 to 127
+d) -127 to 128
+
+Solution
+c) -128 to 127
+
+Solution Description
+Range of byte(8 bits) is : -2^7 to 2^7-1
