@@ -1,0 +1,15 @@
+Which of these values can be assigned to a boolean variable in Java?
+
+Options
+This problem has only one correct answer
+
+a) 0 0r 1
+b) Any integer value
+c) true or false
+d) Both options a and c
+
+Solution
+c) true or false
+
+Solution Description
+Boolean variable in java can only hold either true or false value.
